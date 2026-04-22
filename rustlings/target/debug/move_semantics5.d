@@ -1,0 +1,1 @@
+/workspaces/rustlings_exercises/rustlings/target/debug/move_semantics5: /workspaces/rustlings_exercises/rustlings/exercises/06_move_semantics/move_semantics5.rs
