@@ -1,0 +1,1 @@
+/workspaces/rustlings_exercises/rustlings/target/debug/primitive_types4: /workspaces/rustlings_exercises/rustlings/exercises/04_primitive_types/primitive_types4.rs
