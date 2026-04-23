@@ -1,5 +1,5 @@
-   0.034190263s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.034228895s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4c7a35323ec39bd5/test-bin-arc1`
+   0.032523570s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.032553866s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4c7a35323ec39bd5/test-bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -41,8 +41,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.042287390s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.042308830s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-8a4a98acbdf384e2/bin-arc1`
+   0.039484073s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.039501345s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-8a4a98acbdf384e2/bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -84,8 +84,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.043004930s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.043020118s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d7d5a4d30c094f21/test-bin-as_ref_mut`
+   0.040201894s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.040217403s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d7d5a4d30c094f21/test-bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -127,8 +127,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.043375041s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.043390600s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bdb55434cd0739eb/bin-as_ref_mut`
+   0.040609245s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.040624143s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bdb55434cd0739eb/bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -170,8 +170,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.044145441s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.044160519s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-6f22ae700271fdbd/test-bin-box1`
+   0.041292351s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.041307038s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-6f22ae700271fdbd/test-bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -213,8 +213,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.044491858s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.044507076s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c3e2bd7c5ea07380/bin-box1`
+   0.041699742s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.041713688s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c3e2bd7c5ea07380/bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -256,8 +256,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.047167476s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
-   0.047182424s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-35c55d7b56f2a855/test-bin-cow1`
+   0.044415706s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
+   0.044430694s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-35c55d7b56f2a855/test-bin-cow1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -299,18 +299,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.049335096s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint: stale: changed "/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs"
-   0.049346858s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:           (vs) "/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-79c93d86237bf2f2/dep-test-bin-enums3"
-   0.049353941s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1776935186, nanos: 673601582 } < FileTime { seconds: 1776935320, nanos: 945599655 }
-   0.049412260s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint: fingerprint dirty for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "enums3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs", Edition2024) }
-   0.049426035s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-79c93d86237bf2f2/dep-test-bin-enums3", reference_mtime: FileTime { seconds: 1776935186, nanos: 673601582 }, stale: "/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs", stale_mtime: FileTime { seconds: 1776935320, nanos: 945599655 } }))
-   0.049784315s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint: stale: changed "/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs"
-   0.049799964s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:           (vs) "/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d6b16d7218f56bc7/dep-bin-enums3"
-   0.049806306s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1776935191, nanos: 215601517 } < FileTime { seconds: 1776935320, nanos: 945599655 }
-   0.049855277s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint: fingerprint dirty for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "enums3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs", Edition2024) }
-   0.049867831s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="enums3"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d6b16d7218f56bc7/dep-bin-enums3", reference_mtime: FileTime { seconds: 1776935191, nanos: 215601517 }, stale: "/workspaces/rustlings_exercises/rustlings/exercises/08_enums/enums3.rs", stale_mtime: FileTime { seconds: 1776935320, nanos: 945599655 } }))
-   0.050469204s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors1.rs", Edition2024) }
-   0.050484192s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-ff445a51df0cb208/test-bin-errors1`
+   0.047301918s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors1.rs", Edition2024) }
+   0.047317988s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-ff445a51df0cb208/test-bin-errors1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -352,8 +342,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.051329902s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
-   0.051344720s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-296d73e2d9671e69/test-bin-errors2`
+   0.048239950s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
+   0.048254477s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-296d73e2d9671e69/test-bin-errors2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -395,8 +385,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.051680407s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
-   0.051695626s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2b38157df3ffa8c0/bin-errors2`
+   0.048642743s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
+   0.048656769s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2b38157df3ffa8c0/bin-errors2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -438,8 +428,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.052352813s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
-   0.052369775s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1a7d6e7e30139f21/test-bin-errors3`
+   0.049385049s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
+   0.049399947s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1a7d6e7e30139f21/test-bin-errors3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -481,8 +471,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.052687428s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
-   0.052702857s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-7c82af5d1f915f97/bin-errors3`
+   0.049753588s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
+   0.049768365s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-7c82af5d1f915f97/bin-errors3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -524,8 +514,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.054035747s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
-   0.054050655s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-85b3b8e9b713307d/test-bin-errors5`
+   0.051183469s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "errors5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
+   0.051198136s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-85b3b8e9b713307d/test-bin-errors5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -567,8 +557,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.054368388s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
-   0.054382164s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5cd6460270e64c7e/bin-errors5`
+   0.051591912s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "errors5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
+   0.051605918s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5cd6460270e64c7e/bin-errors5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -610,8 +600,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.055802177s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.055816845s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4b86e018168e3a82/test-bin-from_into`
+   0.053039586s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.053054424s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4b86e018168e3a82/test-bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -653,8 +643,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.056200772s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.056214938s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9ba4493b14daf054/bin-from_into`
+   0.053440896s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.053455473s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9ba4493b14daf054/bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -696,8 +686,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.056896051s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.056909927s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bfb493f067b86c36/test-bin-from_str`
+   0.054188042s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.054202790s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bfb493f067b86c36/test-bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -739,8 +729,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.057271492s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.057285929s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1e66cdf48fbb3acf/bin-from_str`
+   0.054531213s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.054545860s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1e66cdf48fbb3acf/bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -782,8 +772,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.061228995s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "generics1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
-   0.061244574s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a6ad28d0f0b5e605/test-bin-generics1`
+   0.058627505s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "generics1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
+   0.058642994s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a6ad28d0f0b5e605/test-bin-generics1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -825,8 +815,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.061591362s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "generics1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
-   0.061606561s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f8a5650f1219524e/bin-generics1`
+   0.059031019s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "generics1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
+   0.059045476s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f8a5650f1219524e/bin-generics1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -868,8 +858,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.062276201s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "generics2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics2.rs", Edition2024) }
-   0.062291801s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fcfcedef6c05be7d/test-bin-generics2`
+   0.059763858s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "generics2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/14_generics/generics2.rs", Edition2024) }
+   0.059778205s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="generics2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fcfcedef6c05be7d/test-bin-generics2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -911,8 +901,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.063229192s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
-   0.063244150s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2c65535c60ecb939/test-bin-hashmaps1`
+   0.060684929s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
+   0.060699106s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2c65535c60ecb939/test-bin-hashmaps1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -954,8 +944,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.063555912s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
-   0.063569468s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-75ff62263931d4a3/bin-hashmaps1`
+   0.061097290s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
+   0.061111276s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-75ff62263931d4a3/bin-hashmaps1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -997,8 +987,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.068939429s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
-   0.068961641s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-799b680a049684e6/test-bin-iterators1`
+   0.066796136s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
+   0.066811885s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-799b680a049684e6/test-bin-iterators1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1040,8 +1030,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.069946811s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.069961419s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2e303f402ee08d93/test-bin-iterators2`
+   0.067711806s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.067727385s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2e303f402ee08d93/test-bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1083,8 +1073,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.070273792s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.070288409s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c19bc49e7c3d7877/bin-iterators2`
+   0.068128835s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.068143453s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c19bc49e7c3d7877/bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1126,8 +1116,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.070984410s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
-   0.070999127s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-adcdc53409fb6e47/test-bin-iterators3`
+   0.068863638s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
+   0.068877224s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-adcdc53409fb6e47/test-bin-iterators3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1169,8 +1159,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.071862220s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.071875805s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0e24560ad482792a/test-bin-iterators4`
+   0.069698327s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.069713295s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0e24560ad482792a/test-bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1212,8 +1202,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.072313423s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.072327689s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1f81629c6d044e0f/bin-iterators4`
+   0.070100649s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.070115998s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1f81629c6d044e0f/bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1255,8 +1245,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.073050209s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.073064856s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c658fadf57bc9e06/test-bin-iterators5`
+   0.070762996s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.070777173s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c658fadf57bc9e06/test-bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1298,8 +1288,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.073433816s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.073450607s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-03ec3dc612b1c983/bin-iterators5`
+   0.071183953s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.071197959s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-03ec3dc612b1c983/bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1341,8 +1331,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.074350999s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
-   0.074366478s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1ad5a104c366fcab/test-bin-lifetimes1`
+   0.071882899s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
+   0.071896143s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1ad5a104c366fcab/test-bin-lifetimes1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1384,8 +1374,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.074738763s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
-   0.074750495s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-6b357c6b3aba28f2/bin-lifetimes1`
+   0.072302372s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
+   0.072316278s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-6b357c6b3aba28f2/bin-lifetimes1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1427,8 +1417,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.075719155s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
-   0.075734023s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a161674b43ce4a88/test-bin-lifetimes2`
+   0.073040561s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
+   0.073058435s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a161674b43ce4a88/test-bin-lifetimes2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1470,8 +1460,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.076180356s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
-   0.076192389s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-01c79414f4edd892/bin-lifetimes2`
+   0.073443283s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
+   0.073457189s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-01c79414f4edd892/bin-lifetimes2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1513,8 +1503,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.077217584s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
-   0.077234195s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4a105b019e69121b/test-bin-lifetimes3`
+   0.074115590s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
+   0.074130127s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-4a105b019e69121b/test-bin-lifetimes3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1556,8 +1546,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.077689045s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
-   0.077711617s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-cd100a0ab6bb4b97/bin-lifetimes3`
+   0.074445897s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
+   0.074459672s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-cd100a0ab6bb4b97/bin-lifetimes3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1599,8 +1589,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.078727405s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.078750208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e901970446766054/test-bin-macros1`
+   0.075186590s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.075201428s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e901970446766054/test-bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1642,8 +1632,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.079183206s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.079198265s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-3b9383c1fca8b34a/bin-macros1`
+   0.075556822s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.075570437s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-3b9383c1fca8b34a/bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1685,8 +1675,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.080256311s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.080281077s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-dea3297ba5e724fb/test-bin-macros2`
+   0.076263362s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.076278130s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-dea3297ba5e724fb/test-bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1728,8 +1718,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.080741067s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.080772245s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b9db1974cfcfc030/bin-macros2`
+   0.076641208s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.076654653s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b9db1974cfcfc030/bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1771,8 +1761,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.081791790s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.081813550s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1888e2cfe0b52aae/test-bin-macros3`
+   0.077373005s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.077387652s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1888e2cfe0b52aae/test-bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1814,8 +1804,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.082322351s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.082339362s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-271077a4b0745e6a/bin-macros3`
+   0.077778142s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.077791637s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-271077a4b0745e6a/bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1857,8 +1847,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.083401907s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.083426463s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-200abd9baa6cacaf/test-bin-macros4`
+   0.078497295s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.078514397s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-200abd9baa6cacaf/test-bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1900,8 +1890,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.083878818s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.083894498s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0574ce27ba84d9d2/bin-macros4`
+   0.078903404s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.078916809s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0574ce27ba84d9d2/bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1943,8 +1933,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.084928940s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
-   0.084941303s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a78325b125817f90/test-bin-modules1`
+   0.079622157s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
+   0.079636634s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-a78325b125817f90/test-bin-modules1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1986,8 +1976,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.085360546s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
-   0.085383249s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0375a9653978469d/bin-modules1`
+   0.080050627s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
+   0.080064994s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0375a9653978469d/bin-modules1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2029,8 +2019,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.086145152s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
-   0.086159900s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d60132b2664bf4eb/test-bin-modules2`
+   0.080722522s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
+   0.080736729s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d60132b2664bf4eb/test-bin-modules2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2072,8 +2062,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.086611834s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
-   0.086630088s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b8f7f1f357097bc6/bin-modules2`
+   0.081116789s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
+   0.081131065s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b8f7f1f357097bc6/bin-modules2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2115,8 +2105,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.087682164s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
-   0.087698805s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-688b5e26854d15f5/test-bin-modules3`
+   0.081880425s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "modules3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
+   0.081893730s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-688b5e26854d15f5/test-bin-modules3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2158,8 +2148,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.088242501s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
-   0.088259873s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5d9e67ea9d60e192/bin-modules3`
+   0.082215591s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "modules3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
+   0.082229688s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5d9e67ea9d60e192/bin-modules3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2201,8 +2191,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.092707221s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options1.rs", Edition2024) }
-   0.092723973s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-00f052ad281a07a1/test-bin-options1`
+   0.087291534s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options1.rs", Edition2024) }
+   0.087308145s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-00f052ad281a07a1/test-bin-options1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2244,8 +2234,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.093106717s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options1.rs", Edition2024) }
-   0.093121926s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bcd6fc3bcf0fcc1d/bin-options1`
+   0.088269209s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options1.rs", Edition2024) }
+   0.088286010s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bcd6fc3bcf0fcc1d/bin-options1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2287,8 +2277,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.093802507s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options2.rs", Edition2024) }
-   0.093816273s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d362de8148c9a809/test-bin-options2`
+   0.089366268s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options2.rs", Edition2024) }
+   0.090233490s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-d362de8148c9a809/test-bin-options2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2330,8 +2320,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.094137313s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options2.rs", Edition2024) }
-   0.094151810s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e1e04b5962765faa/bin-options2`
+   0.090767458s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options2.rs", Edition2024) }
+   0.090785672s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e1e04b5962765faa/bin-options2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2373,8 +2363,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.094951875s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options3.rs", Edition2024) }
-   0.094968696s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9ffc14d21b197a3c/test-bin-options3`
+   0.091808512s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "options3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options3.rs", Edition2024) }
+   0.091823841s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9ffc14d21b197a3c/test-bin-options3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2416,8 +2406,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.095346281s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options3.rs", Edition2024) }
-   0.095360428s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-01b3bd17f6b9165f/bin-options3`
+   0.092327192s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "options3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/12_options/options3.rs", Edition2024) }
+   0.092340376s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-01b3bd17f6b9165f/bin-options3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2459,8 +2449,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.100426572s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz1.rs", Edition2024) }
-   0.100442762s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fc387db15a3df9fd/test-bin-quiz1`
+   0.097960626s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz1.rs", Edition2024) }
+   0.097977637s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fc387db15a3df9fd/test-bin-quiz1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2502,8 +2492,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.101323658s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz2.rs", Edition2024) }
-   0.101338646s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-236a1fca94280553/test-bin-quiz2`
+   0.098916571s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz2.rs", Edition2024) }
+   0.098930528s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-236a1fca94280553/test-bin-quiz2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2545,8 +2535,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.102266139s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz3.rs", Edition2024) }
-   0.102281658s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-aa927df6be5f1ce2/test-bin-quiz3`
+   0.099790154s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "quiz3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/quizzes/quiz3.rs", Edition2024) }
+   0.099805282s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-aa927df6be5f1ce2/test-bin-quiz3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2588,8 +2578,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.103902315s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings1.rs", Edition2024) }
-   0.103916702s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c018635a21601787/test-bin-strings1`
+   0.102620301s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings3.rs", Edition2024) }
+   0.102634637s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-25136b547b611885/test-bin-strings3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2631,8 +2621,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.104313293s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings1.rs", Edition2024) }
-   0.104327710s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-c83f793aa3dc92d8/bin-strings1`
+   0.102988468s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings3.rs", Edition2024) }
+   0.103003356s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-77fc3cf3f9af049b/bin-strings3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2674,8 +2664,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.105077331s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings2.rs", Edition2024) }
-   0.105092328s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-25ff65a5c231636c/test-bin-strings2`
+   0.103725285s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings4.rs", Edition2024) }
+   0.103739752s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-747f8ce83a81dccf/test-bin-strings4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2717,8 +2707,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.105461057s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings2.rs", Edition2024) }
-   0.105475123s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-2a8ed3a9b0888ca1/bin-strings2`
+   0.104137054s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings4.rs", Edition2024) }
+   0.104151471s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f782d2fb4207b283/bin-strings4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2760,8 +2750,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.106226417s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings3.rs", Edition2024) }
-   0.106241886s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-25136b547b611885/test-bin-strings3`
+   0.106966400s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests1.rs", Edition2024) }
+   0.106981097s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-3ce1f54d3ba9d7a0/test-bin-tests1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2803,8 +2793,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.106549911s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings3.rs", Edition2024) }
-   0.106566262s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-77fc3cf3f9af049b/bin-strings3`
+   0.107896537s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests2.rs", Edition2024) }
+   0.107910834s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-791e66cf0c45e721/test-bin-tests2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2846,8 +2836,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.107250330s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "strings4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings4.rs", Edition2024) }
-   0.107264747s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-747f8ce83a81dccf/test-bin-strings4`
+   0.108774528s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests3.rs", Edition2024) }
+   0.108788764s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-da887590b65fba09/test-bin-tests3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2889,8 +2879,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.107612426s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "strings4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/09_strings/strings4.rs", Edition2024) }
-   0.107627234s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="strings4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f782d2fb4207b283/bin-strings4`
+   0.109686401s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.109701670s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-67c3fc7a4d2bc73e/test-bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2932,8 +2922,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.110631426s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests1.rs", Edition2024) }
-   0.110647797s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-3ce1f54d3ba9d7a0/test-bin-tests1`
+   0.110093522s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.110108089s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-cdcfc813be058354/bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2975,8 +2965,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.112027124s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests2.rs", Edition2024) }
-   0.112052150s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-791e66cf0c45e721/test-bin-tests2`
+   0.110864021s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.110881303s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f9c5c28f766db45c/test-bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3018,8 +3008,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.113254056s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "tests3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/17_tests/tests3.rs", Edition2024) }
-   0.113274694s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="tests3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-da887590b65fba09/test-bin-tests3`
+   0.111199588s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.111213544s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-abafd4231009562e/bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3061,8 +3051,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.114473834s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.114485917s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-67c3fc7a4d2bc73e/test-bin-threads1`
+   0.111918331s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.111932186s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9a2a11a5246f0d34/test-bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3104,8 +3094,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.114891374s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.114902395s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-cdcfc813be058354/bin-threads1`
+   0.112293181s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.112306817s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1ff13f2f5f60e632/bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3147,8 +3137,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.115747644s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.115779433s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f9c5c28f766db45c/test-bin-threads2`
+   0.113026421s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
+   0.113041108s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f920826b7667ae41/test-bin-traits1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3190,8 +3180,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.116240996s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.116253569s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-abafd4231009562e/bin-threads2`
+   0.113344986s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
+   0.113359012s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fc4cd91fbc1ff2b9/bin-traits1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3233,8 +3223,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.117226857s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.117239451s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9a2a11a5246f0d34/test-bin-threads3`
+   0.114091781s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits2.rs", Edition2024) }
+   0.114106218s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-87b3e28b701e6768/test-bin-traits2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3276,8 +3266,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.117661440s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.117673402s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-1ff13f2f5f60e632/bin-threads3`
+   0.114995730s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
+   0.115010167s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-30711a39c8d40cfb/test-bin-traits3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3319,8 +3309,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.118709818s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
-   0.118732951s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f920826b7667ae41/test-bin-traits1`
+   0.115361744s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
+   0.115375239s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b0b2661214df5cea/bin-traits3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3362,8 +3352,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.119195566s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits1", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
-   0.119211786s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fc4cd91fbc1ff2b9/bin-traits1`
+   0.116128867s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
+   0.116145999s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5f2aee76ebecf04c/test-bin-traits4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3405,8 +3395,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.120182760s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits2", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits2.rs", Edition2024) }
-   0.120205101s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits2"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-87b3e28b701e6768/test-bin-traits2`
+   0.116462640s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
+   0.116476306s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-faa3d3eadf360052/bin-traits4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3448,8 +3438,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.121562868s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
-   0.121580310s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-30711a39c8d40cfb/test-bin-traits3`
+   0.117235374s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
+   0.117249931s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f58895d76d7bfbea/test-bin-traits5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3491,8 +3481,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.122060958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits3", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
-   0.122073973s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-b0b2661214df5cea/bin-traits3`
+   0.117639709s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
+   0.117653274s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9c2994b67264cc75/bin-traits5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3534,8 +3524,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.123131268s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
-   0.123155984s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-5f2aee76ebecf04c/test-bin-traits4`
+   0.118309931s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.118325019s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bbe070bb3f45b9f9/test-bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3577,8 +3567,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.123586719s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits4", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
-   0.123609972s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-faa3d3eadf360052/bin-traits4`
+   0.118693287s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.118707093s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0be5fffb6cf22ce1/bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3620,8 +3610,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.124401812s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "traits5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
-   0.124417851s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-f58895d76d7bfbea/test-bin-traits5`
+   0.119426838s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.119441726s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fe0f4bf6602e3415/test-bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3663,180 +3653,8 @@ Stack backtrace:
   24: <unknown>
   25: __libc_start_main
   26: <unknown>
-   0.124797921s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "traits5", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
-   0.124811557s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-9c2994b67264cc75/bin-traits5`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: cargo_util::paths::read_bytes
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
-   3: cargo::core::compiler::fingerprint::prepare_target
-   4: cargo::core::compiler::compile
-   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
-   6: cargo::ops::cargo_compile::compile_ws
-   7: cargo::ops::cargo_compile::compile_with_exec
-   8: cargo::ops::cargo_compile::compile
-   9: cargo::commands::check::exec
-  10: <cargo::cli::Exec>::exec
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
-  13: std::rt::lang_start::<()>::{closure#0}
-  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe as core::ops::function::FnOnce<()>>::call_once
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/core/src/ops/function.rs:287:21
-  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  18: std::rt::lang_start_internal::{closure#0}
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:175:24
-  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  22: std::rt::lang_start_internal
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:171:5
-  23: main
-  24: <unknown>
-  25: __libc_start_main
-  26: <unknown>
-   0.125535269s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.125551279s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-bbe070bb3f45b9f9/test-bin-try_from_into`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: cargo_util::paths::read_bytes
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
-   3: cargo::core::compiler::fingerprint::prepare_target
-   4: cargo::core::compiler::compile
-   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
-   6: cargo::ops::cargo_compile::compile_ws
-   7: cargo::ops::cargo_compile::compile_with_exec
-   8: cargo::ops::cargo_compile::compile
-   9: cargo::commands::check::exec
-  10: <cargo::cli::Exec>::exec
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
-  13: std::rt::lang_start::<()>::{closure#0}
-  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe as core::ops::function::FnOnce<()>>::call_once
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/core/src/ops/function.rs:287:21
-  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  18: std::rt::lang_start_internal::{closure#0}
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:175:24
-  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  22: std::rt::lang_start_internal
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:171:5
-  23: main
-  24: <unknown>
-  25: __libc_start_main
-  26: <unknown>
-   0.125884381s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.125898868s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-0be5fffb6cf22ce1/bin-try_from_into`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: cargo_util::paths::read_bytes
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
-   3: cargo::core::compiler::fingerprint::prepare_target
-   4: cargo::core::compiler::compile
-   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
-   6: cargo::ops::cargo_compile::compile_ws
-   7: cargo::ops::cargo_compile::compile_with_exec
-   8: cargo::ops::cargo_compile::compile
-   9: cargo::commands::check::exec
-  10: <cargo::cli::Exec>::exec
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
-  13: std::rt::lang_start::<()>::{closure#0}
-  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe as core::ops::function::FnOnce<()>>::call_once
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/core/src/ops/function.rs:287:21
-  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  18: std::rt::lang_start_internal::{closure#0}
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:175:24
-  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  22: std::rt::lang_start_internal
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:171:5
-  23: main
-  24: <unknown>
-  25: __libc_start_main
-  26: <unknown>
-   0.126547850s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.126562708s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-fe0f4bf6602e3415/test-bin-using_as`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: cargo_util::paths::read_bytes
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
-   3: cargo::core::compiler::fingerprint::prepare_target
-   4: cargo::core::compiler::compile
-   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
-   6: cargo::ops::cargo_compile::compile_ws
-   7: cargo::ops::cargo_compile::compile_with_exec
-   8: cargo::ops::cargo_compile::compile
-   9: cargo::commands::check::exec
-  10: <cargo::cli::Exec>::exec
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
-  13: std::rt::lang_start::<()>::{closure#0}
-  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe as core::ops::function::FnOnce<()>>::call_once
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/core/src/ops/function.rs:287:21
-  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::marker::Sync + core::panic::unwind_safe::RefUnwindSafe, i32>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  18: std::rt::lang_start_internal::{closure#0}
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:175:24
-  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:581:40
-  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panicking.rs:544:19
-  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/panic.rs:359:14
-  22: std::rt::lang_start_internal
-             at /rustc/59807616e1fa2540724bfbac14d7976d7e4a3860/library/std/src/rt.rs:171:5
-  23: main
-  24: <unknown>
-  25: __libc_start_main
-  26: <unknown>
-   0.126976531s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.126991670s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e8ab1e7483c67c95/bin-using_as`
+   0.119828919s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/workspaces/rustlings_exercises/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.119868703s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/workspaces/rustlings_exercises/rustlings/target/debug/.fingerprint/exercises-e8ab1e7483c67c95/bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -3879,94 +3697,88 @@ Stack backtrace:
   25: __libc_start_main
   26: <unknown>
     Checking exercises v0.0.0 (/workspaces/rustlings_exercises/rustlings)
-error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
-error: could not compile `exercises` (bin "modules3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
-error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
-error: could not compile `exercises` (bin "errors5" test) due to 3 previous errors
-error: could not compile `exercises` (bin "errors3") due to 1 previous error
-error: could not compile `exercises` (bin "strings2") due to 1 previous error
-error: could not compile `exercises` (bin "modules2" test) due to 2 previous errors
-error: could not compile `exercises` (bin "quiz2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "strings4" test) due to 10 previous errors
-error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators4") due to 1 previous error
-error: could not compile `exercises` (bin "modules3") due to 2 previous errors
-error: could not compile `exercises` (bin "lifetimes3") due to 2 previous errors
-error: could not compile `exercises` (bin "errors5") due to 3 previous errors
-error: could not compile `exercises` (bin "options3" test) due to 1 previous error
-error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "strings4") due to 10 previous errors
-error: could not compile `exercises` (bin "strings2" test) due to 1 previous error
-error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
-error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "strings1") due to 1 previous error
-error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "generics2" test) due to 2 previous errors
-error: could not compile `exercises` (bin "modules1" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "quiz1" test) due to 4 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
-error: could not compile `exercises` (bin "arc1") due to 2 previous errors
-error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
-error: could not compile `exercises` (bin "options2") due to 3 previous errors
-error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
 error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
-error: could not compile `exercises` (bin "traits5") due to 3 previous errors
-error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "generics1") due to 1 previous error
-error: could not compile `exercises` (bin "traits2" test) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
+error: could not compile `exercises` (bin "quiz1" test) due to 4 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads3") due to 1 previous error
+error: could not compile `exercises` (bin "traits4" test) due to 5 previous errors
 error: could not compile `exercises` (bin "options3") due to 1 previous error
-error: could not compile `exercises` (bin "macros4") due to 1 previous error
-error: could not compile `exercises` (bin "strings3") due to 3 previous errors
-error: could not compile `exercises` (bin "strings3" test) due to 3 previous errors
-error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
-error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
+error: could not compile `exercises` (bin "traits3") due to 2 previous errors
+error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
 error: could not compile `exercises` (bin "errors2" test) due to 1 previous error
-error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "options2" test) due to 5 previous errors
-error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "options1") due to 1 previous error
+error: could not compile `exercises` (bin "generics1" test) due to 1 previous error
+error: could not compile `exercises` (bin "generics1") due to 1 previous error
+error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
+error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
+error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "errors3") due to 1 previous error
+error: could not compile `exercises` (bin "generics2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "traits4") due to 5 previous errors
+error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
+error: could not compile `exercises` (bin "traits5" test) due to 3 previous errors
+error: could not compile `exercises` (bin "using_as") due to 1 previous error
+error: could not compile `exercises` (bin "from_str") due to 1 previous error
+error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
+error: could not compile `exercises` (bin "iterators4") due to 1 previous error
 error: could not compile `exercises` (bin "hashmaps1") due to 2 previous errors
-error: could not compile `exercises` (bin "from_into") due to 1 previous error
-error: could not compile `exercises` (bin "modules2") due to 2 previous errors
+error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
+error: could not compile `exercises` (bin "traits3" test) due to 2 previous errors
 error: could not compile `exercises` (bin "tests2" test) due to 4 previous errors
-error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
-error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "box1") due to 3 previous errors
+error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
+error: could not compile `exercises` (bin "errors5") due to 3 previous errors
+error: could not compile `exercises` (bin "errors2") due to 1 previous error
+error: could not compile `exercises` (bin "quiz2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "lifetimes3") due to 2 previous errors
 error: could not compile `exercises` (bin "traits1" test) due to 1 previous error
+error: could not compile `exercises` (bin "lifetimes3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "modules3") due to 2 previous errors
+error: could not compile `exercises` (bin "from_into") due to 1 previous error
+error: could not compile `exercises` (bin "traits2" test) due to 1 previous error
+error: could not compile `exercises` (bin "box1") due to 3 previous errors
+error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
 error: could not compile `exercises` (bin "modules1") due to 1 previous error
 error: could not compile `exercises` (bin "options1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "options1") due to 1 previous error
-error: could not compile `exercises` (bin "traits5" test) due to 3 previous errors
-error: could not compile `exercises` (bin "errors2") due to 1 previous error
-error: could not compile `exercises` (bin "traits1") due to 1 previous error
-error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
-error: could not compile `exercises` (bin "traits4" test) due to 5 previous errors
-error: could not compile `exercises` (bin "strings1" test) due to 1 previous error
-error: could not compile `exercises` (bin "from_str") due to 1 previous error
+error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros4") due to 1 previous error
 error: could not compile `exercises` (bin "lifetimes1") due to 1 previous error
-error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "threads3") due to 1 previous error
-error: could not compile `exercises` (bin "using_as") due to 1 previous error
-error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "generics1" test) due to 1 previous error
-error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
-error: could not compile `exercises` (bin "lifetimes3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
 error: could not compile `exercises` (bin "threads1") due to 1 previous error
-error: could not compile `exercises` (bin "traits4") due to 5 previous errors
+error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
 error: could not compile `exercises` (bin "iterators1" test) due to 1 previous error; 4 warnings emitted
-error: could not compile `exercises` (bin "traits3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "modules2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "modules1" test) due to 1 previous error
 error: could not compile `exercises` (bin "lifetimes1" test) due to 1 previous error
-error: could not compile `exercises` (bin "traits3") due to 2 previous errors
+error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
+error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
+error: could not compile `exercises` (bin "modules2") due to 2 previous errors
+error: could not compile `exercises` (bin "traits5") due to 3 previous errors
+error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "arc1") due to 2 previous errors
+error: could not compile `exercises` (bin "strings4") due to 10 previous errors
+error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "options2") due to 3 previous errors
+error: could not compile `exercises` (bin "strings4" test) due to 10 previous errors
+error: could not compile `exercises` (bin "options2" test) due to 5 previous errors
+error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "options3" test) due to 1 previous error
+error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
+error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
+error: could not compile `exercises` (bin "traits1") due to 1 previous error
+error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
+error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
+error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "modules3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "errors5" test) due to 3 previous errors
